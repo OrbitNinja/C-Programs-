@@ -3,7 +3,7 @@
  * Write a description of class Subscription here.
  * 
  * @author Tan Do
- * @version Due by Thursday Feb 11
+ * @version Thursday Feb 11
  */
 public class Subscription
 {
