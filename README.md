@@ -1,9 +1,16 @@
-# rock-paper-scissor-and-dice-roll-game
-Code is in C++
+# This will showcase my programming projects I have done as a student for my university programming classes 
+**C++ Programs**
 
-This is my first programming project for a University class
+1. Rock/Paper/Scissors and dice game
 
-The game has two game type options: 
+2. Bank account
 
-1. Rock paper Scissors
-2. Rolling dice for points 
+3. Magic Square 
+
+4. Linear/Binary search logic and Bubble/Selection sort logic 
+
+**Java Programs**
+
+1. Internet Service choice 
+2. Date Operation
+3. Word Search 
