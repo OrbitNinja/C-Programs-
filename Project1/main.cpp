@@ -1,5 +1,5 @@
 /* Program name: rock/paper/scissor and dice roll game
-Due date: October 16 2015
+Version: October 16 2015
 Programmer name: Tan Do
 Purpose: To demonstrate my understanding of creation, compilation, and program submission
 */
