@@ -2,6 +2,8 @@
 Code is in C++
 
 This is my first programming project for a University class
+
 The game has two game type options: 
--Rock paper Scissors
--Rolling dice for points 
+
+1. Rock paper Scissors
+2. Rolling dice for points 
