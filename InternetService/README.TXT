@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. This is the description of the project
 ------------------------------------------------------------------------
 
-PROJECT TITLE: See different internet service packages 
-PURPOSE OF PROJECT: Take home test 1 for java 
-VERSION or DATE: 
-HOW TO START THIS PROJECT:
+PROJECT TITLE:  InternetService
+PURPOSE OF PROJECT: To demenstrate my knowledge of Java and using class files, this is my very first java project
+VERSION or DATE: Thursday Feb 11
 AUTHORS: Tan Do
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: To run this program, you will need an Java JDK from www.java.sun.com, and run it in a IDE that supports java or
+run it using CMD
