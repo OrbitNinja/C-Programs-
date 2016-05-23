@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Subscription()
+comment0.text=\r\n\ no-args\ constructor\ to\ set\ base\ price\ and\ hour\r\n
+comment1.params=TotalHours
+comment1.target=void\ setNumHours(double)
+comment1.text=\r\n\ This\ method\ will\ get\ the\ user\ to\ set\ number\ of\ hours\ they\ use\ \r\n\ @param\ -\ user\ will\ set\ hours\r\n
+comment2.params=
+comment2.target=double\ BillA()
+comment2.text=\r\n\ This\ method\ will\ use\ base\ price\ of\ package\ A\ and\ calculate\ the\ monthly\ bill\r\n\ @return\ -\ returns\ bill\ amount\ \r\n
+comment3.params=
+comment3.target=double\ BillB()
+comment3.text=\r\n\ This\ method\ will\ use\ base\ price\ of\ package\ B\ and\ calculate\ the\ monthly\ bill\r\n\ @return\ -\ returns\ the\ bill\ amount\ \r\n
+comment4.params=
+comment4.target=int\ BillC()
+comment4.text=\r\n\ This\ method\ will\ use\ base\ price\ of\ package\ C\ and\ calculate\ the\ monthly\ bill\r\n\ Package\ C\ is\ always\ the\ same\ due\ to\ having\ ulimited\ hours\r\n\ @return\ -\ returns\ the\ bill\ amount\ \r\n
+comment5.params=
+comment5.target=double\ getHours()
+comment5.text=\r\n\ get\ method\ to\ get\ hours\ input\ by\ user\r\n\ @return\ -\ returns\ number\ of\ hours\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString()\ method\ to\ show\ base\ package\ price\r\n\ @return\ -\ returns\ the\ string\ \r\n
+numComments=7
